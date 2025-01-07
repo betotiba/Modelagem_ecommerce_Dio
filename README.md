@@ -1,2 +1,2 @@
-# **Tarefa  - Suzano - Análise de Dados com Power BI**
-Refinamento da Modelagem do banco de dados para o projeto de e-commerce.
+# **Suzano - Análise de Dados com Power BI**
+Tarefa  - Refinamento da Modelagem do banco de dados para o projeto de e-commerce.
