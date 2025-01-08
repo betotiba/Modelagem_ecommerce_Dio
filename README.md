@@ -10,5 +10,5 @@ Narrativa:
 - O sistema possui multipos fornecedores
 - O cliente poder ser tipo de pessoa física ou jurídica
 - O sitemas oferece distintas formas de pagamento
-- O cliente oferece distintas formas de frete
+- O sistema oferece distintas formas de frete
 
