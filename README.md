@@ -13,7 +13,6 @@ Este modelo representa uma plataforma de E-commerce onde tenho as seguintes enti
 - Vendedor
 - Entrega
 
---
 Para resoluçao da tarefa criei as Classes e tabelas (Cliente, Tipopessoa, Pagamento, Pedido, Vendedor).
 Ao montar o pedido, onde já tenho os dados do cliente logado, os dados do produto e dados do vendedor posso vincular
 a forma de pagamento e tipo de frete assim gerando o pedido com as informações necessaria para finalização.
