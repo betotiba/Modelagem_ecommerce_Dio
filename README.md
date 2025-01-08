@@ -3,4 +3,10 @@
 Tarefa - Modelagem de dados para o projeto de e-commerce.
 
 ---
-Este modelo representa uma plataforma de E-commerce onde tenho as seguintes definições:
+Este modelo representa uma plataforma de E-commerce onde tenho as seguintes entidades:
+- Vendedores
+- Fornecedores
+- Clientes: Poder ser pessoa Física ou Jurídica
+- Formas de pagamento
+- Pedido
+- 
