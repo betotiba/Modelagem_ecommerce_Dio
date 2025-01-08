@@ -1,6 +1,6 @@
 # **Suzano - Análise de Dados com Power BI**
 
-Tarefa - Modelagem de dados para um projeto E-commerce.
+Tarefa - Modelagem de dados para um projeto de E-commerce.
 ---
 Objetivo:
 Cria o esquema conceitual para o contexto de um E-commerce com base na narrativa fornecida
